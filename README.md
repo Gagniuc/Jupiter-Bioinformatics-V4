@@ -1,6 +1,3 @@
-# Jupiter-Bioinformatics-V4
-**Jupiter Bioinformatics** is a browser-based tool for interactive pairwise  sequence alignment and heatmap visualization. Built on the **Smith-Waterman**  local alignment algorithm, it renders the full scoring matrix as a color-coded  heatmap on an HTML5 canvas, no installation, no server, no dependencies.  Open the file and start aligning.
-
 # 🧬 Jupiter Bioinformatics - V4
 
 **Jupiter Bioinformatics** is a browser-based tool for interactive pairwise 
@@ -23,3 +20,9 @@ Open the file and start aligning.
 1. Download or clone the repository
 2. Open `index.html` in any modern browser
 3. Enter two sequences and click **Run**
+
+## References
+
+- <i>Paul A Gagniuc, Elvira Gagniuc, The sequence alignment problem: boundary conditions as the unifying principle, Briefings in Bioinformatics, Volume 27, Issue 3, May 2026, bbag333.</i>
+
+***
