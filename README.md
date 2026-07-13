@@ -1,3 +1,5 @@
+Note: Although we are in 2026, an era in which AI-assisted software development has become commonplace, I would like to state explicitly that BioAlign is 100% human-made. Its concept, architecture, source code, interface, testing, and documentation were created entirely through human effort, without AI-generated code or content. In other words, an actual biological human being (namely me) spent two full months designing, coding, debugging, and refining this application from scratch. And yes, I am genuinely proud of that, especially in an era when many programmers seem to have forgotten the joy of programming as both a science and an art once practiced by some of the brightest minds. Thus, use it. Abuse it. Enjoy it.
+
 # 🧬 Jupiter Bioinformatics - V4
 
 **Jupiter Bioinformatics** is a browser-based tool for interactive pairwise 
@@ -26,5 +28,3 @@ Open the file and start aligning.
 - <i>Paul A Gagniuc, Elvira Gagniuc, The sequence alignment problem: boundary conditions as the unifying principle, Briefings in Bioinformatics, Volume 27, Issue 3, May 2026, bbag333.</i>
 
 ***
-
-Note: BioAlign Heatmap is a 100% human-designed and human-developed bioinformatics application, created, implemented, tested, and documented without AI-generated code or content. It provides browser-based pairwise sequence alignment and interactive heatmap visualization using the Smith–Waterman local alignment algorithm.
