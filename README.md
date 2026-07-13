@@ -27,7 +27,7 @@ Open the file and start aligning.
 
 ## References
 
-- <i>Paul A Gagniuc, Elvira Gagniuc, The sequence alignment problem: boundary conditions as the unifying principle, Briefings in Bioinformatics, Volume 27, Issue 3, May 2026, bbag333.</i>
+- <i>Paul A Gagniuc, Elvira Gagniuc, [The sequence alignment problem: boundary conditions as the unifying principle](https://academic.oup.com/bib/article/27/3/bbag333/8712659), Briefings in Bioinformatics, Volume 27, Issue 3, May 2026, bbag333.</i>
 
 ***
 
