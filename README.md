@@ -8,6 +8,8 @@ local alignment algorithm, it renders the full scoring matrix as a color-coded
 heatmap on an HTML5 canvas - no installation, no server, no dependencies. 
 Open the file and start aligning.
 
+![Screenshot](https://github.com/Gagniuc/Jupiter-Bioinformatics-V4/blob/main/img/AI_made_image_bio_align(II).png)
+
 ## Features
 - Supports **DNA, RNA, Protein, numeric, and ASCII** sequences (auto-detected)
 - **11 built-in themes** for publication-ready figures
@@ -28,3 +30,5 @@ Open the file and start aligning.
 - <i>Paul A Gagniuc, Elvira Gagniuc, The sequence alignment problem: boundary conditions as the unifying principle, Briefings in Bioinformatics, Volume 27, Issue 3, May 2026, bbag333.</i>
 
 ***
+
+![Screenshot](https://github.com/Gagniuc/Jupiter-Bioinformatics-V4/blob/main/img/AI_made_image_bio_align(I).png)
