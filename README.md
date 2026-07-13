@@ -26,3 +26,5 @@ Open the file and start aligning.
 - <i>Paul A Gagniuc, Elvira Gagniuc, The sequence alignment problem: boundary conditions as the unifying principle, Briefings in Bioinformatics, Volume 27, Issue 3, May 2026, bbag333.</i>
 
 ***
+
+Note: BioAlign Heatmap is a 100% human-designed and human-developed bioinformatics application, created, implemented, tested, and documented without AI-generated code or content. It provides browser-based pairwise sequence alignment and interactive heatmap visualization using the Smith–Waterman local alignment algorithm.
